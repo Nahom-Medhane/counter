@@ -1,8 +1,9 @@
 {
-  "homepage": "https://Nahom-Medhane/counter.github.io",
+  
   "name": "counter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Nahom-Medhane.github.io/counter",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
