@@ -8,11 +8,10 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './Components/counter.css';
 ReactDOM.render(
   <React.StrictMode>
-<<<<<<< HEAD
+
     <Counters/>
-=======
-    <Counters />
->>>>>>> 8e74d70242a2ac1956b0c5299642e21bceb4da6e
+
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
