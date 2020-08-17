@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './Components/counter.css';
 ReactDOM.render(
   <React.StrictMode>
-    <App/>
+    <Counters />
   </React.StrictMode>,
   document.getElementById('root')
 );
