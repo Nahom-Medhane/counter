@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nahom-Medhane/counter/static/css/main.fb688ade.chunk.css",
+    "main.js": "/Nahom-Medhane/counter/static/js/main.4eb618b4.chunk.js",
+    "main.js.map": "/Nahom-Medhane/counter/static/js/main.4eb618b4.chunk.js.map",
+    "runtime-main.js": "/Nahom-Medhane/counter/static/js/runtime-main.a8421385.js",
+    "runtime-main.js.map": "/Nahom-Medhane/counter/static/js/runtime-main.a8421385.js.map",
+    "static/css/2.11829350.chunk.css": "/Nahom-Medhane/counter/static/css/2.11829350.chunk.css",
+    "static/js/2.6519af9d.chunk.js": "/Nahom-Medhane/counter/static/js/2.6519af9d.chunk.js",
+    "static/js/2.6519af9d.chunk.js.map": "/Nahom-Medhane/counter/static/js/2.6519af9d.chunk.js.map",
+    "index.html": "/Nahom-Medhane/counter/index.html",
+    "precache-manifest.a22a4f5dfa18867cb1f498fdc2573c25.js": "/Nahom-Medhane/counter/precache-manifest.a22a4f5dfa18867cb1f498fdc2573c25.js",
+    "service-worker.js": "/Nahom-Medhane/counter/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Nahom-Medhane/counter/static/css/2.11829350.chunk.css.map",
+    "static/css/main.fb688ade.chunk.css.map": "/Nahom-Medhane/counter/static/css/main.fb688ade.chunk.css.map",
+    "static/js/2.6519af9d.chunk.js.LICENSE.txt": "/Nahom-Medhane/counter/static/js/2.6519af9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8421385.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6519af9d.chunk.js",
+    "static/css/main.fb688ade.chunk.css",
+    "static/js/main.4eb618b4.chunk.js"
+  ]
+}
